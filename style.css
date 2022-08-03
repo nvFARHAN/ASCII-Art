@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: Courier, monospace;
+  font-size: 12px;
+  line-height: 10px;
+}
+canvas {
+  margin: auto;
+  display: block;
+  background-color: #fff;
+}
+div {
+  text-align: center;
+}
